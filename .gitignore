@@ -1,0 +1,5 @@
+# Fichiers internes de R et RStudio
+.Rproj.user/
+.Rhistory
+.RData
+Rplots.pdf
